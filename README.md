@@ -4,7 +4,7 @@
 
 - Model training: local ubuntu 16.04, pytorch 1.8.0, W&B, GPU P40 
 - Dataset: Face2Anime 
-- Deployment: Docker app containerization, AWS FarGate (serverless) 
+- Deployment: Docker app containerization, AWS FarGate, Amazon Elastic Container 
 - Data storage: AWS S3
 - Front-end: HTML + CSS, Streamlit 
 
