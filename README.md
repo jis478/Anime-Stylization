@@ -3,7 +3,7 @@
 **Tech stack**
 
 - Model training: ubuntu 16.04, pytorch 1.8.0, W&B, GPU P40 
-- Model stack: Face detector, Face alignement, GAN, pix2pixHD
+- Model stack: Face detector, Face alignement, GAN
 - Dataset: Face2Anime 
 - Deployment: Docker app containerization, AWS FarGate, Amazon Elastic Container 
 - Front-end: HTML + CSS 
