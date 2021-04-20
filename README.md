@@ -13,3 +13,4 @@
  - https://ljvmiranda921.github.io/notebook/2020/11/15/data-science-swe/
  - https://github.com/full-stack-deep-learning/fsdl-text-recognizer-2021-labs
  - https://towardsdatascience.com/deploy-machine-learning-pipeline-on-aws-fargate-eb6e1c50507
+ - https://pytorch.org/docs/stable/jit.html
