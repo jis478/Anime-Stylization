@@ -10,6 +10,7 @@ Anime translation app run on AWS fargate. The full address for the app will be p
 - Deployment: Docker app containerization, AWS FarGate, Amazon Elastic Container 
 - Front-end: HTML + CSS 
 <br><br>
+
 **Sample**
 
 ![sample](https://github.com/jis478/AnimeTranslation/blob/main/samples/sample.PNG)
