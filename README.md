@@ -6,7 +6,7 @@ Anime translation app run on AWS fargate. The full address for the app will be p
 
 - Model training: ubuntu 16.04, pytorch 1.8.0, W&B, GPU P40 
 - Model stack: Face detector, Face alignement, GAN
-- Dataset: [!Face2Anime](https://github.com/bing-li-ai/AniGAN) 
+- Dataset: [Face2Anime](https://github.com/bing-li-ai/AniGAN) 
 - Deployment: Docker app containerization, AWS FarGate, Amazon Elastic Container 
 - Front-end: HTML + CSS 
 <br><br>
