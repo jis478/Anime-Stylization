@@ -1,5 +1,7 @@
 # **Anime translation project**
 
+Anime translation app run on AWS fargate. The full address for the app will be provided as soon as all the settings are completed. 
+
 **Tech stack**
 
 - Model training: ubuntu 16.04, pytorch 1.8.0, W&B, GPU P40 
@@ -7,7 +9,10 @@
 - Dataset: Face2Anime 
 - Deployment: Docker app containerization, AWS FarGate, Amazon Elastic Container 
 - Front-end: HTML + CSS 
+<br><br>
+**Sample**
 
+![sample](https://github.com/jis478/AnimeTranslation/blob/main/samples/sample.PNG)
 
 **Resources**
  - https://ljvmiranda921.github.io/notebook/2020/11/15/data-science-swe/
