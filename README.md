@@ -1,5 +1,9 @@
 # **Anime translation project**
 
+
+This repo has been abandoned. Please check out my [new project](https://github.com/jis478/StylizationIntoWebtoon).
+
+## Overview
 Anime translation app run on AWS fargate. The full address for the app will be provided as soon as all the settings are completed. 
 
 **Tech stack**
